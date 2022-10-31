@@ -1,5 +1,5 @@
 
-## What it cover up this one
+## Handling thousands requests in nodejs using async await
 It's either you want to fetch thousands requests or solve 1 of 3 errors:
 `read ECONNRESET` / `connect ETIMEDOUT` /  `Client network socket disconnected before secure TLS connection was established`
 in nodejs.
